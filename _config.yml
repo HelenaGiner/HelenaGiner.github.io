@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-remote-theme
 title: Helena Giner's homepage
 description: A portfolio of my digital humanities projects from fall 2024
+remote_theme: pages-themes/time-machine@v0.2.0
