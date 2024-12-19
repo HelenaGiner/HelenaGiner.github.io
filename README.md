@@ -1,6 +1,6 @@
 # HelenaGiner.github.io
 
-## Relevant links
-- [Education Commons Reflection](EducationCommonsReflection.md)
+<h2>Links</h2>
+- [About Me](Reflection.html)
 
-does this work
+
