@@ -1,5 +1,5 @@
 # HelenaGiner.github.io
 
 <h2>Links</h2>
-[Reflection Statement](Reflection.html)
+[Reflection Statement](Reflection.md)
 
